@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APTLostAndFound</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="cate_spinner">
+        <item>Animals / Pets</item>
+        <item>Bags, Baggage, Luggage</item>
+        <item>Clothing</item>
+        <item>Collectors Items</item>
+        <item>Currency / Money</item>
+        <item>Electronics</item>
+        <item>Household/Tools</item>
+        <item>Jewelry</item>
+        <item>Literature</item>
+        <item>Mail/Parcel</item>
+        <item>Media</item>
+        <item>Medical</item>
+        <item>Musical Equipment</item>
+        <item>Personal Accessories</item>
+        <item>Sporting Goods</item>
+        <item>Tickets</item>
+        <item>Toys</item>
+        <item>Transportation</item>
+        <item>Visual Art Related</item>
+    </string-array>
+
+    <string name="log_out"><u>Log out</u></string>
+    <string name="use_current_loc"><u>use current location</u></string>
+    <string name="use_current_add"><u>use address below</u></string>
+
+</resources>
